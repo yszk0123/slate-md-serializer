@@ -5,13 +5,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "const hello = 'world';
 function() {
@@ -31,13 +31,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "const hello = 'world';
 function() {
@@ -57,25 +57,25 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {
           "checked": true,
         },
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "checked",
                   },
@@ -87,25 +87,25 @@ Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
                 "data": Object {
                   "checked": false,
                 },
                 "isVoid": false,
-                "kind": "block",
+                "object": "block",
                 "nodes": Array [
                   Object {
                     "data": Object {},
                     "isVoid": false,
-                    "kind": "block",
+                    "object": "block",
                     "nodes": Array [
                       Object {
-                        "kind": "text",
+                        "object": "text",
                         "leaves": Array [
                           Object {
-                            "kind": "leaf",
+                            "object": "leaf",
                             "marks": Array [],
                             "text": "empty",
                           },
@@ -122,18 +122,18 @@ Array [
                   "checked": true,
                 },
                 "isVoid": false,
-                "kind": "block",
+                "object": "block",
                 "nodes": Array [
                   Object {
                     "data": Object {},
                     "isVoid": false,
-                    "kind": "block",
+                    "object": "block",
                     "nodes": Array [
                       Object {
-                        "kind": "text",
+                        "object": "text",
                         "leaves": Array [
                           Object {
-                            "kind": "leaf",
+                            "object": "leaf",
                             "marks": Array [],
                             "text": "checked",
                           },
@@ -156,18 +156,18 @@ Array [
           "checked": false,
         },
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "three",
                   },
@@ -192,13 +192,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "Heading",
           },
@@ -215,13 +215,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "Heading",
           },
@@ -238,13 +238,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "Heading",
           },
@@ -261,13 +261,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "Heading",
           },
@@ -284,13 +284,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "Heading",
           },
@@ -307,13 +307,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "Heading",
           },
@@ -330,13 +330,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "const hello = 'world';
 function() {
@@ -356,23 +356,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "one",
                   },
@@ -387,18 +387,18 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "two",
                   },
@@ -421,23 +421,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "List item that contains a blockquote with inline mark",
                   },
@@ -449,22 +449,22 @@ Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "Blockquote with code ",
                   },
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [
                       Object {
                         "data": Object {},
-                        "kind": "mark",
+                        "object": "mark",
                         "type": "code",
                       },
                     ],
@@ -489,13 +489,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -506,13 +506,13 @@ Array [
           "href": "http://google.com",
         },
         "isVoid": false,
-        "kind": "inline",
+        "object": "inline",
         "nodes": Array [
           Object {
-            "kind": "text",
+            "object": "text",
             "leaves": Array [
               Object {
-                "kind": "leaf",
+                "object": "leaf",
                 "marks": Array [],
                 "text": "google",
               },
@@ -522,10 +522,10 @@ Array [
         "type": "link",
       },
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -542,13 +542,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -559,13 +559,13 @@ Array [
           "href": "https://example.com/app/kibana#/discover?_g=(refreshInterval:('$$hashKey':'object:1596',display:'10 seconds',pause:!f,section:1,value:10000),time:(from:now-15m,mode:quick,to:now))&_a=(columns:!(metadata.step,message,metadata.attempt_f,metadata.tries_f,metadata.error_class,metadata.url),index:'logs-',interval:auto,query:(query_string:(analyze_wildcard:!t,query:'metadata.at: Stepper*')),sort:!(time,desc))",
         },
         "isVoid": false,
-        "kind": "inline",
+        "object": "inline",
         "nodes": Array [
           Object {
-            "kind": "text",
+            "object": "text",
             "leaves": Array [
               Object {
-                "kind": "leaf",
+                "object": "leaf",
                 "marks": Array [],
                 "text": "kibana",
               },
@@ -575,10 +575,10 @@ Array [
         "type": "link",
       },
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -595,13 +595,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -612,13 +612,13 @@ Array [
           "href": "https://example.com/app/kibana#/visualize/edit/Requests-%25",
         },
         "isVoid": false,
-        "kind": "inline",
+        "object": "inline",
         "nodes": Array [
           Object {
-            "kind": "text",
+            "object": "text",
             "leaves": Array [
               Object {
-                "kind": "leaf",
+                "object": "leaf",
                 "marks": Array [],
                 "text": "kibana",
               },
@@ -628,10 +628,10 @@ Array [
         "type": "link",
       },
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -648,13 +648,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -665,13 +665,13 @@ Array [
           "href": "http://google.com",
         },
         "isVoid": false,
-        "kind": "inline",
+        "object": "inline",
         "nodes": Array [
           Object {
-            "kind": "text",
+            "object": "text",
             "leaves": Array [
               Object {
-                "kind": "leaf",
+                "object": "leaf",
                 "marks": Array [],
                 "text": "google",
               },
@@ -681,10 +681,10 @@ Array [
         "type": "link",
       },
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "",
           },
@@ -701,23 +701,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "one",
                   },
@@ -732,18 +732,18 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "two",
                   },
@@ -766,32 +766,32 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "one ",
                   },
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [
                       Object {
                         "data": Object {},
-                        "kind": "mark",
+                        "object": "mark",
                         "type": "bold",
                       },
                     ],
@@ -808,29 +808,29 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [
                       Object {
                         "data": Object {},
-                        "kind": "mark",
+                        "object": "mark",
                         "type": "italic",
                       },
                     ],
                     "text": "italic",
                   },
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": " two",
                   },
@@ -853,23 +853,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "one",
                   },
@@ -884,18 +884,18 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "two",
                   },
@@ -907,13 +907,13 @@ Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "-",
                   },
@@ -936,23 +936,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "list",
                   },
@@ -970,23 +970,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "another",
                   },
@@ -1004,23 +1004,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "different",
                   },
@@ -1043,25 +1043,25 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {
           "checked": false,
         },
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "todo",
                   },
@@ -1073,25 +1073,25 @@ Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
                 "data": Object {
                   "checked": false,
                 },
                 "isVoid": false,
-                "kind": "block",
+                "object": "block",
                 "nodes": Array [
                   Object {
                     "data": Object {},
                     "isVoid": false,
-                    "kind": "block",
+                    "object": "block",
                     "nodes": Array [
                       Object {
-                        "kind": "text",
+                        "object": "text",
                         "leaves": Array [
                           Object {
-                            "kind": "leaf",
+                            "object": "leaf",
                             "marks": Array [],
                             "text": "nested",
                           },
@@ -1108,18 +1108,18 @@ Array [
                   "checked": false,
                 },
                 "isVoid": false,
-                "kind": "block",
+                "object": "block",
                 "nodes": Array [
                   Object {
                     "data": Object {},
                     "isVoid": false,
-                    "kind": "block",
+                    "object": "block",
                     "nodes": Array [
                       Object {
-                        "kind": "text",
+                        "object": "text",
                         "leaves": Array [
                           Object {
-                            "kind": "leaf",
+                            "object": "leaf",
                             "marks": Array [],
                             "text": "deep",
                           },
@@ -1148,23 +1148,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "one",
                   },
@@ -1179,18 +1179,18 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "two",
                   },
@@ -1213,23 +1213,23 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "one",
                   },
@@ -1244,18 +1244,18 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "two",
                   },
@@ -1270,18 +1270,18 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "three",
                   },
@@ -1304,32 +1304,32 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "one ",
                   },
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [
                       Object {
                         "data": Object {},
-                        "kind": "mark",
+                        "object": "mark",
                         "type": "bold",
                       },
                     ],
@@ -1346,29 +1346,29 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [
                       Object {
                         "data": Object {},
-                        "kind": "mark",
+                        "object": "mark",
                         "type": "italic",
                       },
                     ],
                     "text": "italic",
                   },
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": " two",
                   },
@@ -1391,13 +1391,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "This is just a sentance",
           },
@@ -1414,13 +1414,13 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": "this is a quote",
           },
@@ -1437,24 +1437,24 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
-        "kind": "text",
+        "object": "text",
         "leaves": Array [
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [
               Object {
                 "data": Object {},
-                "kind": "mark",
+                "object": "mark",
                 "type": "bold",
               },
             ],
             "text": "bold",
           },
           Object {
-            "kind": "leaf",
+            "object": "leaf",
             "marks": Array [],
             "text": " in a quote",
           },
@@ -1471,25 +1471,25 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {
               "align": null,
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "Tables",
                   },
@@ -1503,13 +1503,13 @@ Array [
               "align": "center",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "Are",
                   },
@@ -1523,13 +1523,13 @@ Array [
               "align": "right",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "Cool",
                   },
@@ -1544,20 +1544,20 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {
               "align": null,
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "col 1 is",
                   },
@@ -1571,13 +1571,13 @@ Array [
               "align": "center",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "left-aligned",
                   },
@@ -1591,13 +1591,13 @@ Array [
               "align": "right",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "$1600",
                   },
@@ -1612,20 +1612,20 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {
               "align": null,
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "col 2 is",
                   },
@@ -1639,13 +1639,13 @@ Array [
               "align": "center",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "centered",
                   },
@@ -1659,13 +1659,13 @@ Array [
               "align": "right",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "$12",
                   },
@@ -1680,20 +1680,20 @@ Array [
       Object {
         "data": Object {},
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {
               "align": null,
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "col 3 is",
                   },
@@ -1707,13 +1707,13 @@ Array [
               "align": "center",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "right-aligned",
                   },
@@ -1727,13 +1727,13 @@ Array [
               "align": "right",
             },
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "$1",
                   },
@@ -1756,25 +1756,25 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {
           "checked": false,
         },
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "todo",
                   },
@@ -1791,18 +1791,18 @@ Array [
           "checked": true,
         },
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "done",
                   },
@@ -1825,29 +1825,29 @@ Array [
   Object {
     "data": Object {},
     "isVoid": false,
-    "kind": "block",
+    "object": "block",
     "nodes": Array [
       Object {
         "data": Object {
           "checked": true,
         },
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [
                       Object {
                         "data": Object {},
-                        "kind": "mark",
+                        "object": "mark",
                         "type": "deleted",
                       },
                     ],
@@ -1866,27 +1866,27 @@ Array [
           "checked": true,
         },
         "isVoid": false,
-        "kind": "block",
+        "object": "block",
         "nodes": Array [
           Object {
             "data": Object {},
             "isVoid": false,
-            "kind": "block",
+            "object": "block",
             "nodes": Array [
               Object {
-                "kind": "text",
+                "object": "text",
                 "leaves": Array [
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [],
                     "text": "more ",
                   },
                   Object {
-                    "kind": "leaf",
+                    "object": "leaf",
                     "marks": Array [
                       Object {
                         "data": Object {},
-                        "kind": "mark",
+                        "object": "mark",
                         "type": "bold",
                       },
                     ],
